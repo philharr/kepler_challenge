@@ -4,7 +4,7 @@ Webpage for the challenge: https://www.kaggle.com/keplersmachines/kepler-labelle
 I attempted this challenge as my project for a python course held at Uppsala University in 2018 (https://github.com/uu-python). I show my workings on this project through three jupyter notebooks.
 
 ## step 1: preprocessing
-Here I explore the data a little, putting it in the necessary format for tsfresh (which I used for feature extraction/selection), and plot the time series data passed through a few filters. I've decided to give tsfresh two time series for each star:
+Here I explore the data a little, putting it in the necessary format for tsfresh (which I used for feature extraction/selection), and plot the time series data passed through a few filters. I decided to give tsfresh two time series for each star:
 1. 5 step minimum filter of the detrended time series
 2. 5 step mean filter of the raw time series
 
