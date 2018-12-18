@@ -1,4 +1,5 @@
 # Kepler challenge
+Webpage for the challenge: https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data/home
 
 I attempted this challenge as my project for a python course held at Uppsala University in 2018. I show my workings on this project through three jupyter notebook.
 
